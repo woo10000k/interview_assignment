@@ -1,0 +1,3 @@
+@echo off
+echo Running setup script...
+powershell -ExecutionPolicy Bypass -File "%~dp0setup_windows.ps1"
